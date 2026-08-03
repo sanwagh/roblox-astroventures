@@ -11,7 +11,7 @@ local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local HttpsService = game:GetService("HttpService")
 
 -- Change the URL game to game
-local URL = "https://discord.com/api/webhooks/1328816295671763116/rnYNGDrI0XxuW_4tGjGj00RyQFQA2QvVTjWcZP1J3LYG9zXwPwcg4fsqwa_7v1svK2Mg"
+local URL = ""
 
 local module = {}
 module.__index = module
